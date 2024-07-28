@@ -1,0 +1,36 @@
+.Nav{
+    background-color: rgb(255, 128, 128);
+    width: 200px;
+    height: 500px;
+    display: flex;
+}
+.Header{
+    background-color: rgb(255, 158, 170);
+    height:100px;
+}
+.Aricle{
+    background-color:rgb(246, 253, 195);
+    height: 300px;
+}
+.Footer{
+    background-color: rgb(226, 191, 179);
+    height: 100px;
+}
+.container-1{
+    height: 100%;
+    display: flex;
+}
+.container-2{
+    width: 800px;
+}
+.container-4{
+    width: 700px;
+}
+.container-3{
+    display: flex;
+}
+.Aside{
+    background-color: rgb(255, 207, 150);
+    height: 400px;
+    width: 30%;
+}
